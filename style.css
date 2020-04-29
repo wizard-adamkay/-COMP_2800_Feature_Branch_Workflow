@@ -9,5 +9,14 @@ h1 {
 .container {
     margin: 0 auto;
     width: 800px;
+<<<<<<< HEAD
     text-align: center;
 }
+=======
+    text
+}
+
+.clickable {
+ cursor:hand;
+}
+>>>>>>> Adam_Krawchuk_feature2
